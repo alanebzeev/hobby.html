@@ -1,0 +1,67 @@
+.navigation{
+    float: right;
+    height: 100%;
+}
+ 
+.navigation a{
+    height: 100%;
+    display: table;
+    float: left;
+    padding: 0px 30px;
+    background-color: #101010;
+}
+ 
+.navigation a li{
+    vertical-align: middle;
+    display: table-cell;
+    font-size: 30px;
+    color: white;
+}
+ 
+.navigation a:hover{
+    background-color: gray;
+    color: #101010;
+}
+
+img {
+    min-height: 40vh; 
+    width: 30%;
+      
+}
+
+h1 {
+    font-size: 60px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    background-color: black;
+    color: white;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: white;
+    float: middle;
+    
+}
+    
+.col { 
+    background: none; 
+    width: 900px; 
+    padding: 30px; 
+    font-size: 2em; 
+    word-wrap: break-word; 
+    float: right;
+}
+
+.wrapper { 
+    min-height: 100vh; 
+    width: 100%;
+    background-color: white;
+    background-image: url(https://gamerwall.pro/uploads/posts/2022-03/1648190895_1-gamerwall-pro-p-fon-dlya-portreta-odnotonnii-krasivie-1.jpg);
+    background-size: 1920px 1080px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+}
